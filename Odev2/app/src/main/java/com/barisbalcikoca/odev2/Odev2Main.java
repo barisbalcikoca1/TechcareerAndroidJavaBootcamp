@@ -8,7 +8,7 @@ public class Odev2Main {
 
         //PART1
         System.out.println("kmToMile");
-        System.out.println(o2.kmToMile(85));
+        o2.kmToMile(85);
         System.out.println("--------------");
 
 

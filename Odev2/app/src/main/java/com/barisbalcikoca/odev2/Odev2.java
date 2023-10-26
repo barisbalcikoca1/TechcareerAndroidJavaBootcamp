@@ -12,6 +12,7 @@ public class Odev2 {
         {
             System.out.println("Lütfen 0 dan büyük değer giriniz");
         }
+        System.out.println(km+" km = "+kmToMile*km+" mil");
         return  km * kmToMile;
     }
 
@@ -19,8 +20,7 @@ public class Odev2 {
     //2. Kenarları parametre olarak girilen ve dikdörtgenin alanını hesaplayan metod yazınız. VOID
     public void dikdortgenAlanHesapla(double kenar1, double kenar2) {
         double alan = kenar1 * kenar2;
-        System.out.println(alan);
-
+        System.out.println("Bir kenarı "+kenar1+" ve diğer kenarı "+kenar2+" olan bir dikdortgenin alanı : "+alan);
     }
 
     //3. Paramtere olarak girilen sayının faktoriyel değerini hesaplayan GERİYE DÖNDÜREN metodu yazınız.
@@ -80,7 +80,7 @@ public class Odev2 {
         } else{
             maas = calismaSaati*40;
         }
-        System.out.println(gunSayisi+" kadar çalışan işçinin maaşı : "+maas +" kadardır.");
+        System.out.println(gunSayisi+" gün çalışan işçinin maaşı : "+maas +" kadardır.");
         return maas;
     }
 
