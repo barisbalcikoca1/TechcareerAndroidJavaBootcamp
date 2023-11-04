@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agesa</string>
+    <string name="toolbar_name">Sözleşme Detayları</string>
+    <string name="total_savings_value">0,00 TL</string>
+    <string name="total_savings">Toplam Biikim</string>
+    <string name="contribution_margin">Katkı Payı</string>
+    <string name="contribution_margin_value">1000,00 TL</string>
+    <string name="button_sum_payment">Toplu Ödeme Yap</string>
+    <string name="button_change_contribution_amount">Katkı Payı Değiştir</string>
+    <string name="contribution_amounts">Katkı Tutarları</string>
+    <string name="fund_returns">Fon Getirileri</string>
+    <string name="leave">Bugün ayrılırsam ne alırım?</string>
+    <string name="dolars">7000,00 TL</string>
+    <string name="dolar">0,00 TL</string>
+    <string name="button_details_of_my_savings">Birikimlerimin Detayı</string>
+    <string name="button_my_fund_distribution">Fon Dağılımım</string>
+</resources>

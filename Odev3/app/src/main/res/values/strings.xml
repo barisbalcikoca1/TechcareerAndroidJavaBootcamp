@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agesa</string>
+    <string name="toolbar_name">Contract Details</string>
+    <string name="total_savings_value">$ 0,00</string>
+    <string name="total_savings">Total Savings</string>
+    <string name="contribution_margin">Contribution Margin</string>
+    <string name="contribution_margin_value">$ 35,00</string>
+    <string name="button_sum_payment">Make a Lump Sum Payment</string>
+    <string name="button_change_contribution_amount">Change Contribution Amount</string>
+    <string name="contribution_amounts">Contribution Amounts</string>
+    <string name="fund_returns">Fund Returns</string>
+    <string name="leave">What do ı get if ı leave today?</string>
+    <string name="dolars">$ 246,50</string>
+    <string name="dolar">$ 0,00</string>
+    <string name="button_details_of_my_savings">Details of My Savings</string>
+    <string name="button_my_fund_distribution">My Fund Distribution</string>
+</resources>
