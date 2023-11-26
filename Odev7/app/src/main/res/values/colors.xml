@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusbarColor">#9F8684</color>
+    <color name="arkaplan">#D9D2D0</color>
+    <color name="buton">#59362E</color>
+    <color name="toolbar">#BA9D9A</color>
+
+</resources>
